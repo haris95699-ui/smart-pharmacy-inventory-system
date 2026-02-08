@@ -1,0 +1,6 @@
+Username: Haris_Admin
+Password: harismughal
+
+
+javac -cp ".;mysql-connector-j-9.5.0.jar" *.java
+java -cp ".;mysql-connector-j-9.5.0.jar" AdminLogin
